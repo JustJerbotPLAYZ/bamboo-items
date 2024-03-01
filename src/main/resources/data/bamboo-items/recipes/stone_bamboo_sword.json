@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  C",
+    "SC ",
+    "BS "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:string"
+    },
+    "C": {
+      "tag": "minecraft:stone_tool_materials"
+    },
+    "B": {
+      "item": "minecraft:bamboo"
+    }
+  },
+  "result": {
+    "item": "bamboo-items:stone_bamboo_sword",
+    "count": 1
+  }
+}

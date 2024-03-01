@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "bamboo-items:item/flint_bamboo_axe"
+		"0": "bamboo-items:item/bamboo_axe"
 	},
 	"elements": [
 		{

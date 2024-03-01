@@ -10,7 +10,7 @@ import net.minecraft.util.Lazy;
 import java.util.function.Supplier;
 
 public enum BambooToolMaterial implements ToolMaterial {
-    FLINT(MiningLevels.WOOD, 35, 2.5f, 0.0f, 15, () -> Ingredient.fromTag(ItemTags.PLANKS)),
+    BAMBOO(MiningLevels.WOOD, 35, 2.5f, 0.0f, 15, () -> Ingredient.fromTag(ItemTags.PLANKS)),
     STONE(MiningLevels.STONE, 80, 5.0f, 1.0f, 5, () -> Ingredient.fromTag(ItemTags.STONE_TOOL_MATERIALS)),
     IRON(MiningLevels.IRON, 150, 7.0f, 2.0f, 14, () -> Ingredient.ofItems(Items.IRON_INGOT)),
     GOLD(MiningLevels.WOOD, 20, 13.0f, 0.0f, 22, () -> Ingredient.ofItems(Items.GOLD_INGOT)),
@@ -30,7 +30,7 @@ public enum BambooToolMaterial implements ToolMaterial {
         this.miningSpeed = miningSpeed;
         this.attackDamage = attackDamage;
         this.enchantability = enchantability;
-        this.repairIngredient = new Lazy<Ingredient>(repairIngredient);
+        this.repairIngredient = new Lazy<>(repairIngredient);
     }
 
     @Override
