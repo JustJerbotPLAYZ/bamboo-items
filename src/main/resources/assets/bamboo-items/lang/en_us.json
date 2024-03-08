@@ -1,15 +1,21 @@
 {
   "itemGroup.bamboo-items.bamboo_items": "Bamboo Items",
   "item.bamboo-items.bamboo_sword": "Bamboo Stick",
+  "item.bamboo-items.bamboo_pickaxe": "Bamboo Pickaxe",
   "item.bamboo-items.bamboo_axe": "Bamboo Axe",
   "item.bamboo-items.stone_bamboo_sword" : "Stone Bamboo Sword",
+  "item.bamboo-items.stone_bamboo_pickaxe": "Stone Bamboo Pickaxe",
   "item.bamboo-items.stone_bamboo_axe": "Stone Bamboo Axe",
   "item.bamboo-items.gold_bamboo_sword": "Gold Bamboo Sword",
+  "item.bamboo-items.gold_bamboo_pickaxe" : "Gold Bamboo Pickaxe",
   "item.bamboo-items.gold_bamboo_axe": "Gold Bamboo Axe",
   "item.bamboo-items.iron_bamboo_sword": "Iron Bamboo Sword",
+  "item.bamboo-items.iron_bamboo_pickaxe": "Iron Bamboo Pickaxe",
   "item.bamboo-items.iron_bamboo_axe": "Iron Bamboo Axe",
   "item.bamboo-items.diamond_bamboo_sword": "Diamond Katana",
+  "item.bamboo-items.diamond_bamboo_pickaxe": "Diamond Bamboo Pickaxe",
   "item.bamboo-items.diamond_bamboo_axe": "Diamond Bamboo Axe",
   "item.bamboo-items.netherite_bamboo_sword": "Netherite Katana",
+  "item.bamboo-items.netherite_bamboo_pickaxe": "Netherite Bamboo Pickaxe",
   "item.bamboo-items.netherite_bamboo_axe": "Netherite Bamboo Axe"
 }
