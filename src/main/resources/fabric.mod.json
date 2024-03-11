@@ -1,11 +1,11 @@
 {
 	"schemaVersion": 1,
-	"id": "first-mod",
+	"id": "bamboo-items",
 	"version": "${version}",
-	"name": "first-mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "Bamboo items",
+	"description": "A small mod that adds some Bamboo tools to the game",
 	"authors": [
-		"Me!"
+		"<null/>"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
